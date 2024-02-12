@@ -5,7 +5,11 @@ Web phishing adalah bentuk kejahatan dunia maya di mana penyerang menipu individ
 Menurut laporan Indonesian Anti-Phishing Data Exchange (IDADX) untuk periode selama tahun 2023, **laporan url phishing tertinggi** terjadi pada **bulan Februari** sebanyak **15.050** dan terendah bulan **November sebanyak 1.729**. Menurut laporan terbaru dari **_Indonesian Anti-Phishing Data Exchange (IDADX)_** untuk periode **Oktober hingga Desember 2023, terdapat 8.161 laporan URL phishing**. Bulan Desember mencatat jumlah pelaporan phishing tertinggi dibandingkan bulan lainnya selama **Q4 2023**.
 
 # Pengumpulan Dataset
-Merupakan dataset yang terdiri dari 45,373 contoh, mewakili halaman web benign dan phishing secara merata. Setiap contoh mencakup berbagai elemen dokumen HTML seperti teks, hyperlink, gambar, tabel, daftar, dan berbagai komponen URL mulai dari subdomain hingga query. Terdapat dua file excel pada dataset ini, yakni URL.xlsx dan HTML.xlsx. Tiap file excel memiliki dua kolom, yakni ‘Category’ dan ‘Data’ Dataset ini terdiri dari data yang dikumpulkan dari Alexa.com untuk halaman web yang sah dan phishtank.com untuk halaman web phishing
+Merupakan dataset yang terdiri dari 45,373 contoh, mewakili halaman web benign dan phishing secara merata. Setiap contoh mencakup berbagai elemen dokumen HTML seperti teks, hyperlink, gambar, tabel, daftar, dan berbagai komponen URL mulai dari subdomain hingga query. Terdapat dua file excel pada dataset ini, yakni URL.xlsx dan HTML.xlsx. Tiap file excel memiliki dua kolom, yakni ‘Category’ dan ‘Data’ Dataset ini terdiri dari data yang dikumpulkan dari Alexa.com untuk halaman web yang sah dan phishtank.com untuk halaman web phishing.
+
+Link dataset: [Klik disini](https://drive.google.com/drive/folders/1RUUWq0dpp8orM0dhdYCsYCuPDG-5nvtU)
+
+
 
 # EDA
 Dataset terdiri dari :
